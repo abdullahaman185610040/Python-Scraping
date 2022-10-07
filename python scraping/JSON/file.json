@@ -1,0 +1,18 @@
+{
+    "tanggal" : "2019-10-01",
+    "pelanggan" : "Aman",
+    "barang" : [
+        {
+            "kode" : "k009",
+            "namabarang" : "Kemeja",
+            "harga" : 50000,
+            "jumlahbeli" : 3
+        },
+        {
+            "kode" : "k010",
+            "namabarang" : "Celana",
+            "harga" : 750000,
+            "jumlahbeli" : 5
+        }
+    ]
+}

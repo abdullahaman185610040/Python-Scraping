@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<penjualan>
+    <tanggal>2019-10-01</tanggal>
+    <pelanggan>Budi</pelanggan>
+    <barang>
+        <kode>k009</kode>
+        <namabarang>Kemeja</namabarang>
+        <harga>50000</harga>
+        <jumlahbeli>3</jumlahbeli>
+    </barang>
+    <barang>
+        <kode>k010</kode>
+        <namabarang>Celana</namabarang>
+        <harga>750000</harga>
+        <jumlahbeli>5</jumlahbeli>
+    </barang>
+</penjualan>
